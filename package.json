@@ -1,0 +1,20 @@
+{
+  "name": "tp6-testing-automatico",
+  "version": "1.0.0",
+  "description": "E2E Testing Automatico",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  },
+
+  "keywords": [
+    "e2e",
+    "framework",
+    "automation",
+    "cypress"
+  ],
+  "author": "ignambro",
+  "license": "ISC"
+}
